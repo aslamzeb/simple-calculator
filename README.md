@@ -1,1 +1,1 @@
-# repo-exercise
+# simple calculator
